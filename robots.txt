@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thatflyingmonkey.github.io/gh-pages/sitemap.xml
